@@ -1,0 +1,11 @@
+# Exclude specific file
+myfile.txt
+
+# Exclude all files with a .log extension
+*.log
+
+# Exclude all files in the logs directory
+/logs/
+
+# Exclude all files in the temp directory and its subdirectories
+/temp/**
