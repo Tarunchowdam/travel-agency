@@ -132,4 +132,4 @@ Welcome to Rental Hub, your go-to destination for a seamless and delightful car 
 - `Password`
 - `Active Status` (Active / In-Active)
 
-Embark on this journey with Rental Hub, and let's make car renting a memorable and enjoyable experience! Feel free to explore and contribute. For any inquiries or feedback, reach out to us through the provided static pages. Happy driving! 🚗💨✨
+Embark on this journey with Rental Hub, and let's make Vehicle renting a memorable and enjoyable experience! Feel free to explore and contribute. For any inquiries or feedback, reach out to us through the provided static pages. Happy driving! 🚗💨✨
